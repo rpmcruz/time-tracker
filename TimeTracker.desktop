@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Vanilla Time Tracker
+Exec=/home/rick2/Documentos/prog/time-tracker/time_tracker.py
+Icon=/home/rick2/Documentos/prog/time-tracker/ktimetracker.png
+
