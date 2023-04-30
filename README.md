@@ -1,6 +1,6 @@
 # Simple GTK+ Time Tracker
 
-All GTK+ time trackers seemed rather old/annoying. This is a very simple app based on [KTimeTracker](https://www.kde.org/applications/utilities/ktimetracker/). Essentially, it does the job. :) And is easily extandable.
+All GTK+ time trackers seemed rather old/annoying. This is a very simple app based on [KTimeTracker](https://www.kde.org/applications/utilities/ktimetracker/). Essentially, it does the job. :) And is easily extendable.
 
 Screenshot:
 
